@@ -7,9 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "mocha"
-},
-  "scripts": {
+    "test": "mocha",
     "build": "next build"
   },
   "repository": {
