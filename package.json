@@ -8,6 +8,9 @@
   },
   "scripts": {
     "test": "mocha"
+},
+  "scripts": {
+    "build": "next build"
   },
   "repository": {
     "type": "git",
